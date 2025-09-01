@@ -28,3 +28,5 @@ if posicion:
     print(f"\n El número {numero_buscado} está en la posición: fila {posicion[0]}, columna {posicion[1]}")
 else:
     print(f"\n El número {numero_buscado} no se encuentra en la matriz.")
+
+#fin
